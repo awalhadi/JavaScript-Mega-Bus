@@ -1,1 +1,1 @@
-# JavaScript-Mega-Bus
+# JavaScript simple Bus ticketing system
